@@ -11,8 +11,9 @@ You can use this program to give your fictional planets, moons, stars, or whatev
 * Includes language selector (American english and Rioplatensian spanish avaliable)
 
 ## Screenshots
+Here's a screenshot of the program running (in spanish), and generating a very familiar name...
 
-![Here's a screenshot of the program running, and generating a very familiar name...](screenshots/teia.png)
+![](screenshots/teia.png)
 
 ------------------------------------------------------------------------------------------------------
 ***For more information, you can extract the files from the .IMG file and view README.TXT.***
