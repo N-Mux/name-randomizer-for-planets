@@ -21,5 +21,5 @@ Here's a screenshot of the program running (in spanish), and generating a very f
 
 ![](screenshots/teia.png)
 
-------------------------------------------------------------------------------------------------------
+---
 ***For more information, you can extract the files from the .IMG file and view README.TXT.***
