@@ -1,4 +1,10 @@
 # Name Randomizer for Planets
+
+![Language](https://img.shields.io/badge/language-Pascal-blue)
+![Platform](https://img.shields.io/badge/platform-MS--DOS-black)
+![Type](https://img.shields.io/badge/type-Name%20Generator-purple)
+![Status](https://img.shields.io/badge/status-stable-green)
+
 This is an "astronomical" style name generator with menu that i made for MS-DOS in Turbo Pascal.
 You can use this program to give your fictional planets, moons, stars, or whatever, a name!
 
